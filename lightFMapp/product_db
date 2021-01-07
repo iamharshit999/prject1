@@ -1,0 +1,501 @@
+product_id,product_name,product_category,product_brand,product_color,product_price,product_CTR,product_add_to_carts,product_units_sold
+0,DelkaMaleblueshirtoff #EROP418,shirt,Delka,blue,600,23,5,6
+1,VersaceUnisexgreenpantsoff #PRPO492,pants,Versace,green,300,14,12,5
+2,VersaceFemalewhitejeansslim #AVIN370,jeans,Versace,white,200,11,16,9
+3,ArmaniUnisexwhitelowersoff #PRPO471,lowers,Armani,white,1400,51,6,12
+4,BaldwinsFemaleblackjeansregular #ORAV195,jeans,Baldwins,black,800,49,9,3
+5,LevisFemaleredjeansslim #EROP356,jeans,Levis,red,1200,90,10,8
+6,Ralph LaurenFemalegreenshirtoff #AVIN152,shirt,Ralph Lauren,green,900,51,11,14
+7,AdidasFemaleblackt-shirtregular #ORAV218,t-shirt,Adidas,black,800,9,17,0
+8,BaldwinsUnisexbluet-shirtoff #PRPO305,t-shirt,Baldwins,blue,1500,76,7,3
+9,American GiantMaleyellowt-shirtoff #PSPO234,t-shirt,American Giant,yellow,200,66,14,5
+10,LevisMalebluepantsregular #ORAV121,pants,Levis,blue,800,49,4,15
+11,VersaceUnisexredshirtregular #QWIO107,shirt,Versace,red,900,83,5,7
+12,UnderArmourMaleredt-shirtoff #EROP474,t-shirt,UnderArmour,red,900,77,14,6
+13,PumaUnisexgreenjeansregular #AVIN324,jeans,Puma,green,750,18,5,2
+14,UnderArmourFemaleredt-shirtregular #PRPO200,t-shirt,UnderArmour,red,350,56,3,2
+15,PumaMaleredlowersoff #PSPO201,lowers,Puma,red,900,15,20,0
+16,AdidasUnisexyellowshirtregular #PSPO424,shirt,Adidas,yellow,300,12,19,5
+17,VersaceUnisexblacklowersoff #ORAV205,lowers,Versace,black,750,29,5,3
+18,0ne8Unisexblackshirtslim #QWIO404,shirt,0ne8,black,600,80,12,6
+19,Ralph LaurenMaleyellowlowersregular #EROP449,lowers,Ralph Lauren,yellow,1200,54,12,10
+20,Emily'sFemaleyellowt-shirtoff #PRPO435,t-shirt,Emily's,yellow,1500,79,6,7
+21,American GiantUnisexredjeansregular #AVIN309,jeans,American Giant,red,600,98,4,9
+22,ArmaniUnisexgreenpantsoff #QWIO477,pants,Armani,green,300,9,13,1
+23,BrooksUnisexyellowjeansslim #PSPO299,jeans,Brooks,yellow,200,89,13,15
+24,ArrowUnisexbluelowersslim #AVIN248,lowers,Arrow,blue,1200,9,4,0
+25,Ebbets Field FlannelsMalegreenjeansoff #ORAV271,jeans,Ebbets Field Flannels,green,400,62,13,4
+26,VersaceFemalewhitejeansregular #ORAV157,jeans,Versace,white,800,48,18,10
+27,LevisUnisexbluelowersslim #EROP365,lowers,Levis,blue,900,29,13,0
+28,American GiantUnisexblackpantsslim #PSPO361,pants,American Giant,black,600,14,8,15
+29,LevisMalewhitet-shirtregular #ORAV349,t-shirt,Levis,white,250,85,20,5
+30,UnderArmourUnisexgreenpantsregular #PRPO200,pants,UnderArmour,green,1100,83,1,11
+31,DelkaMaleyellowt-shirtoff #PSPO112,t-shirt,Delka,yellow,300,74,13,3
+32,VersaceUnisexredlowersoff #ORAV119,lowers,Versace,red,750,76,8,12
+33,DelkaMalewhiteshirtoff #AVIN414,shirt,Delka,white,800,73,7,8
+34,ArmaniUnisexwhitelowersoff #AVIN273,lowers,Armani,white,600,70,18,8
+35,PumaMalebluet-shirtregular #PSPO310,t-shirt,Puma,blue,900,56,18,12
+36,Emily'sFemaleredlowersregular #PRPO131,lowers,Emily's,red,1500,39,15,6
+37,DelkaUnisexblackjeansregular #PRPO197,jeans,Delka,black,1200,9,3,13
+38,ArmaniMalebluepantsregular #AVIN164,pants,Armani,blue,300,83,12,7
+39,AdidasMaleredpantsregular #ORAV174,pants,Adidas,red,200,25,5,9
+40,American GiantUnisexbluet-shirtregular #PSPO172,t-shirt,American Giant,blue,1500,26,6,5
+41,BrooksMalebluepantsregular #EROP409,pants,Brooks,blue,1200,29,9,12
+42,Ralph LaurenUnisexredt-shirtslim #PSPO140,t-shirt,Ralph Lauren,red,400,12,6,2
+43,Ebbets Field FlannelsMaleblacklowersslim #PSPO250,lowers,Ebbets Field Flannels,black,800,57,4,10
+44,ArmaniFemalebluepantsregular #QWIO233,pants,Armani,blue,400,31,20,8
+45,0ne8Unisexwhiteshirtslim #PSPO149,shirt,0ne8,white,650,94,8,1
+46,VersaceMaleyellowt-shirtslim #AVIN117,t-shirt,Versace,yellow,350,94,13,5
+47,VersaceUnisexbluepantsoff #PRPO201,pants,Versace,blue,600,72,15,3
+48,UnderArmourFemalebluepantsregular #QWIO396,pants,UnderArmour,blue,750,93,14,2
+49,UnderArmourUnisexgreent-shirtslim #PSPO335,t-shirt,UnderArmour,green,650,100,5,4
+50,Ebbets Field FlannelsUnisexbluepantsregular #ORAV165,pants,Ebbets Field Flannels,blue,1100,21,4,9
+51,ArmaniFemalebluet-shirtoff #PRPO276,t-shirt,Armani,blue,350,25,7,15
+52,BaldwinsUnisexyellowshirtoff #PSPO388,shirt,Baldwins,yellow,1300,75,19,5
+53,PumaMalebluejeansregular #AVIN104,jeans,Puma,blue,1400,42,5,10
+54,BillsMalebluejeansregular #PSPO170,jeans,Bills,blue,700,80,13,3
+55,Emily'sFemalewhiteshirtoff #QWIO435,shirt,Emily's,white,400,84,15,3
+56,UnderArmourFemaleyellowlowersoff #PSPO253,lowers,UnderArmour,yellow,600,81,6,11
+57,PumaUnisexredshirtslim #PSPO151,shirt,Puma,red,800,13,12,15
+58,BaldwinsMaleyellowjeansoff #QWIO422,jeans,Baldwins,yellow,650,62,1,0
+59,LevisFemalewhitelowersoff #ORAV448,lowers,Levis,white,850,54,16,0
+60,VersaceMaleblueshirtoff #AVIN430,shirt,Versace,blue,600,80,18,11
+61,BrooksMaleyellowpantsslim #AVIN201,pants,Brooks,yellow,450,98,13,1
+62,BaldwinsFemaleredt-shirtslim #ORAV288,t-shirt,Baldwins,red,650,76,0,15
+63,BaldwinsFemaleyellowpantsoff #PRPO395,pants,Baldwins,yellow,1400,80,19,3
+64,0ne8Unisexyellowpantsoff #EROP428,pants,0ne8,yellow,1500,100,17,13
+65,AdidasUnisexwhiteshirtslim #QWIO131,shirt,Adidas,white,1100,29,14,1
+66,BaldwinsUnisexyellowlowersoff #PSPO355,lowers,Baldwins,yellow,200,36,7,9
+67,Emily'sUnisexblackt-shirtregular #PSPO209,t-shirt,Emily's,black,600,92,7,0
+68,BrooksFemalebluejeansregular #QWIO105,jeans,Brooks,blue,650,21,16,10
+69,Ebbets Field FlannelsUnisexgreenpantsoff #PRPO482,pants,Ebbets Field Flannels,green,1100,44,20,0
+70,UnderArmourFemaleyellowt-shirtoff #EROP210,t-shirt,UnderArmour,yellow,1100,47,7,15
+71,ArmaniFemalewhitejeansoff #ORAV220,jeans,Armani,white,1500,27,6,10
+72,VersaceMalewhitelowersoff #AVIN299,lowers,Versace,white,1300,42,0,15
+73,0ne8Malebluepantsoff #QWIO293,pants,0ne8,blue,900,26,10,13
+74,ArmaniMalebluet-shirtslim #PSPO203,t-shirt,Armani,blue,200,8,8,12
+75,PumaMalegreenshirtregular #EROP401,shirt,Puma,green,600,77,20,2
+76,Ralph LaurenMaleblackshirtregular #PRPO489,shirt,Ralph Lauren,black,1200,27,18,15
+77,Ralph LaurenMaleblacklowersoff #PSPO159,lowers,Ralph Lauren,black,1100,1,13,8
+78,PumaFemaleredpantsoff #AVIN224,pants,Puma,red,600,95,1,13
+79,ArmaniMalegreent-shirtoff #EROP162,t-shirt,Armani,green,1400,32,7,9
+80,AdidasMaleyellowt-shirtoff #PSPO195,t-shirt,Adidas,yellow,1200,38,16,7
+81,ArrowFemaleredt-shirtslim #AVIN388,t-shirt,Arrow,red,700,51,18,6
+82,Emily'sMaleblackjeansslim #ORAV398,jeans,Emily's,black,1500,17,13,7
+83,AdidasFemalegreenshirtoff #ORAV443,shirt,Adidas,green,850,7,20,4
+84,NikeMaleblackt-shirtslim #PSPO100,t-shirt,Nike,black,200,34,1,15
+85,BrooksUnisexwhitet-shirtoff #QWIO287,t-shirt,Brooks,white,350,100,12,6
+86,BaldwinsFemalegreent-shirtslim #QWIO365,t-shirt,Baldwins,green,800,74,17,15
+87,Emily'sMaleyellowlowersslim #ORAV211,lowers,Emily's,yellow,1200,43,4,2
+88,American GiantFemaleblackpantsoff #PRPO317,pants,American Giant,black,1400,22,4,3
+89,BillsMaleblackpantsoff #PRPO228,pants,Bills,black,1200,70,14,6
+90,Ebbets Field FlannelsUnisexgreenjeansoff #PRPO403,jeans,Ebbets Field Flannels,green,750,88,2,8
+91,American GiantFemaleredpantsslim #PRPO201,pants,American Giant,red,300,28,8,11
+92,PumaFemaleredpantsslim #QWIO361,pants,Puma,red,700,29,16,10
+93,LevisUnisexwhitepantsregular #ORAV218,pants,Levis,white,750,13,12,15
+94,VersaceFemaleblackpantsoff #PRPO245,pants,Versace,black,250,86,14,14
+95,American GiantUnisexwhitejeansoff #ORAV325,jeans,American Giant,white,1100,54,1,2
+96,BrooksFemalewhitejeansregular #EROP176,jeans,Brooks,white,200,48,20,15
+97,PumaMalewhitelowersregular #AVIN387,lowers,Puma,white,600,50,5,9
+98,BaldwinsFemaleyellowjeansregular #AVIN348,jeans,Baldwins,yellow,600,47,9,11
+99,BillsUnisexwhitepantsoff #AVIN100,pants,Bills,white,700,80,19,14
+100,NikeUnisexwhiteshirtregular #AVIN160,shirt,Nike,white,900,66,17,1
+101,UnderArmourFemaleblackpantsregular #EROP492,pants,UnderArmour,black,450,100,17,9
+102,DelkaUnisexyellowt-shirtoff #PRPO326,t-shirt,Delka,yellow,900,90,3,3
+103,ArrowUnisexredjeansregular #PSPO290,jeans,Arrow,red,1500,0,0,1
+104,Emily'sMalebluelowersslim #ORAV408,lowers,Emily's,blue,1300,58,9,7
+105,VersaceMalegreenjeansregular #EROP155,jeans,Versace,green,1400,82,2,10
+106,Ebbets Field FlannelsFemaleredpantsregular #QWIO244,pants,Ebbets Field Flannels,red,400,55,10,7
+107,UnderArmourFemaleredshirtslim #AVIN154,shirt,UnderArmour,red,250,55,12,2
+108,UnderArmourUnisexyellowjeansslim #ORAV363,jeans,UnderArmour,yellow,850,11,2,2
+109,BaldwinsUnisexblackshirtoff #PSPO469,shirt,Baldwins,black,1200,71,14,10
+110,0ne8Maleblackshirtregular #PSPO463,shirt,0ne8,black,1100,23,4,3
+111,NikeUnisexyellowpantsregular #EROP490,pants,Nike,yellow,600,47,14,10
+112,ArmaniMalegreenlowersregular #ORAV394,lowers,Armani,green,850,100,8,12
+113,DelkaUnisexredshirtoff #PSPO401,shirt,Delka,red,750,34,11,13
+114,Ralph LaurenMaleyellowpantsoff #EROP418,pants,Ralph Lauren,yellow,450,4,16,5
+115,BillsUnisexwhitejeansslim #PSPO390,jeans,Bills,white,1400,58,9,8
+116,BillsFemaleredlowersoff #PSPO183,lowers,Bills,red,750,87,10,13
+117,ArrowUnisexblackshirtoff #QWIO169,shirt,Arrow,black,650,74,5,8
+118,VersaceUnisexwhiteshirtslim #PRPO260,shirt,Versace,white,600,37,10,14
+119,Ebbets Field FlannelsFemalegreent-shirtoff #AVIN490,t-shirt,Ebbets Field Flannels,green,600,76,0,2
+120,BaldwinsFemalegreenjeansoff #PRPO405,jeans,Baldwins,green,350,98,7,7
+121,AdidasFemalegreenjeansoff #QWIO422,jeans,Adidas,green,700,84,19,13
+122,ArmaniMalegreenjeansslim #PSPO217,jeans,Armani,green,700,85,18,3
+123,BaldwinsMaleblueshirtoff #PRPO115,shirt,Baldwins,blue,1100,12,9,13
+124,American GiantUnisexblackpantsslim #ORAV283,pants,American Giant,black,1200,14,16,11
+125,NikeFemaleblacklowersslim #AVIN447,lowers,Nike,black,600,63,12,0
+126,ArrowFemaleredlowersslim #PSPO440,lowers,Arrow,red,1100,35,8,2
+127,ArrowUnisexyellowjeansslim #ORAV268,jeans,Arrow,yellow,200,24,19,6
+128,VersaceFemalewhitet-shirtoff #QWIO329,t-shirt,Versace,white,800,34,17,8
+129,DelkaFemalewhitelowersslim #ORAV127,lowers,Delka,white,400,11,5,9
+130,American GiantUnisexyellowpantsregular #PSPO406,pants,American Giant,yellow,1300,40,5,0
+131,Ebbets Field FlannelsUnisexblacklowersoff #ORAV255,lowers,Ebbets Field Flannels,black,1100,37,10,7
+132,Ebbets Field FlannelsFemaleyellowshirtoff #PSPO307,shirt,Ebbets Field Flannels,yellow,800,18,19,10
+133,PumaUnisexredlowersoff #AVIN178,lowers,Puma,red,1500,23,15,14
+134,DelkaUnisexblackshirtslim #AVIN140,shirt,Delka,black,800,31,14,3
+135,0ne8Femaleyellowt-shirtslim #PSPO207,t-shirt,0ne8,yellow,1400,22,4,7
+136,American GiantMaleredlowersregular #ORAV293,lowers,American Giant,red,200,40,9,2
+137,VersaceMalegreent-shirtoff #EROP473,t-shirt,Versace,green,1500,52,0,3
+138,BaldwinsUnisexwhitelowersoff #QWIO158,lowers,Baldwins,white,1100,21,10,8
+139,American GiantUnisexredjeansoff #AVIN482,jeans,American Giant,red,400,41,6,1
+140,Ebbets Field FlannelsFemalegreenpantsslim #EROP194,pants,Ebbets Field Flannels,green,1500,31,16,6
+141,ArmaniMaleblackshirtoff #PRPO125,shirt,Armani,black,250,39,13,9
+142,Ralph LaurenFemalewhitepantsregular #PSPO163,pants,Ralph Lauren,white,600,41,17,11
+143,PumaMaleblackshirtslim #EROP243,shirt,Puma,black,1500,10,15,10
+144,0ne8Malegreenjeansslim #PRPO412,jeans,0ne8,green,1300,46,19,11
+145,LevisFemalegreenlowersregular #EROP156,lowers,Levis,green,1200,46,3,12
+146,Emily'sFemaleblacklowersslim #EROP435,lowers,Emily's,black,400,41,18,15
+147,Ralph LaurenMalebluejeansregular #PSPO291,jeans,Ralph Lauren,blue,1500,91,3,10
+148,Emily'sMalewhitet-shirtregular #EROP110,t-shirt,Emily's,white,750,38,1,15
+149,ArmaniMaleyellowpantsregular #AVIN263,pants,Armani,yellow,1500,8,7,15
+150,Emily'sMalebluejeansregular #AVIN302,jeans,Emily's,blue,650,30,15,1
+151,0ne8Maleblackjeansregular #ORAV401,jeans,0ne8,black,250,33,8,5
+152,AdidasMalegreenpantsoff #PRPO274,pants,Adidas,green,1500,27,8,8
+153,ArmaniFemaleblacklowersslim #EROP394,lowers,Armani,black,450,6,3,14
+154,UnderArmourUnisexyellowpantsregular #PSPO180,pants,UnderArmour,yellow,1200,3,14,4
+155,Emily'sFemaleredpantsregular #PSPO270,pants,Emily's,red,850,40,4,15
+156,Ebbets Field FlannelsUnisexwhitejeansslim #EROP349,jeans,Ebbets Field Flannels,white,400,99,11,11
+157,ArmaniUnisexyellowshirtregular #ORAV485,shirt,Armani,yellow,750,39,16,4
+158,DelkaFemaleblueshirtslim #PRPO482,shirt,Delka,blue,1200,67,16,11
+159,ArrowFemaleredjeansregular #EROP253,jeans,Arrow,red,800,8,7,6
+160,AdidasFemaleredlowersslim #PRPO190,lowers,Adidas,red,200,89,8,7
+161,ArmaniMaleredlowersslim #EROP293,lowers,Armani,red,1400,64,5,12
+162,BrooksUnisexredpantsoff #PRPO452,pants,Brooks,red,1200,64,1,1
+163,VersaceFemaleyellowt-shirtregular #EROP347,t-shirt,Versace,yellow,1500,20,8,10
+164,UnderArmourMaleredt-shirtslim #ORAV448,t-shirt,UnderArmour,red,900,23,9,15
+165,NikeUnisexblackt-shirtregular #PSPO346,t-shirt,Nike,black,900,70,15,12
+166,ArmaniMaleblackt-shirtoff #AVIN353,t-shirt,Armani,black,600,65,7,6
+167,AdidasMalebluejeansregular #PSPO312,jeans,Adidas,blue,400,40,14,8
+168,Emily'sMalebluet-shirtslim #EROP236,t-shirt,Emily's,blue,250,81,16,11
+169,Ebbets Field FlannelsMaleyellowshirtregular #PRPO225,shirt,Ebbets Field Flannels,yellow,600,34,17,15
+170,BrooksMaleblackshirtslim #ORAV496,shirt,Brooks,black,1300,60,13,12
+171,BrooksMaleblackt-shirtregular #QWIO243,t-shirt,Brooks,black,600,98,17,5
+172,BaldwinsMalegreent-shirtregular #ORAV328,t-shirt,Baldwins,green,700,42,3,15
+173,ArmaniUnisexbluejeansoff #AVIN355,jeans,Armani,blue,650,32,5,7
+174,Emily'sFemaleyellowlowersregular #ORAV178,lowers,Emily's,yellow,750,4,6,1
+175,LevisMalebluelowersoff #ORAV419,lowers,Levis,blue,750,26,4,3
+176,NikeMalebluepantsregular #ORAV140,pants,Nike,blue,200,54,11,1
+177,Ebbets Field FlannelsMaleblacklowersslim #PRPO339,lowers,Ebbets Field Flannels,black,600,36,5,0
+178,NikeFemaleredpantsoff #PRPO496,pants,Nike,red,1300,71,5,3
+179,BrooksFemaleredpantsslim #QWIO291,pants,Brooks,red,350,85,13,12
+180,DelkaFemalewhitelowersregular #PRPO377,lowers,Delka,white,1200,99,16,4
+181,Ralph LaurenUnisexblacklowersregular #EROP176,lowers,Ralph Lauren,black,1100,45,5,9
+182,VersaceUnisexredshirtslim #PSPO226,shirt,Versace,red,250,26,0,1
+183,ArmaniFemaleredjeansslim #PRPO448,jeans,Armani,red,900,91,15,5
+184,VersaceUnisexyellowjeansregular #QWIO131,jeans,Versace,yellow,300,39,6,6
+185,Ebbets Field FlannelsUnisexredt-shirtoff #PRPO345,t-shirt,Ebbets Field Flannels,red,400,69,3,10
+186,Ralph LaurenMaleblackpantsoff #PSPO136,pants,Ralph Lauren,black,250,83,19,15
+187,DelkaFemaleblackpantsslim #ORAV164,pants,Delka,black,450,67,5,5
+188,ArmaniUnisexyellowshirtslim #PSPO107,shirt,Armani,yellow,1200,31,14,12
+189,American GiantMaleblackpantsslim #PRPO245,pants,American Giant,black,450,13,1,8
+190,PumaMaleyellowpantsslim #ORAV461,pants,Puma,yellow,600,29,17,9
+191,LevisUnisexredshirtregular #PSPO119,shirt,Levis,red,800,91,15,12
+192,VersaceMalebluet-shirtoff #PSPO114,t-shirt,Versace,blue,1200,72,9,0
+193,NikeMaleblacklowersoff #ORAV176,lowers,Nike,black,300,8,0,15
+194,DelkaUnisexgreent-shirtslim #QWIO312,t-shirt,Delka,green,850,61,12,14
+195,American GiantMalegreenshirtregular #AVIN478,shirt,American Giant,green,1400,50,7,11
+196,AdidasMalewhitejeansslim #AVIN173,jeans,Adidas,white,400,32,9,14
+197,BaldwinsMaleyellowlowersslim #PRPO407,lowers,Baldwins,yellow,450,50,10,11
+198,BillsFemalewhitepantsoff #AVIN456,pants,Bills,white,1300,15,16,10
+199,Ebbets Field FlannelsFemaleredpantsregular #PSPO324,pants,Ebbets Field Flannels,red,600,4,4,7
+200,ArrowUnisexblacklowersregular #AVIN188,lowers,Arrow,black,450,57,3,12
+201,VersaceUnisexredlowersoff #QWIO495,lowers,Versace,red,1500,63,17,14
+202,BaldwinsMaleyellowpantsoff #QWIO384,pants,Baldwins,yellow,700,18,6,2
+203,VersaceMalebluet-shirtoff #PSPO165,t-shirt,Versace,blue,300,25,1,10
+204,BrooksUnisexwhitepantsoff #EROP250,pants,Brooks,white,1100,39,1,0
+205,BrooksMaleblackshirtslim #QWIO175,shirt,Brooks,black,850,11,14,6
+206,UnderArmourFemalewhiteshirtoff #AVIN183,shirt,UnderArmour,white,1500,21,2,10
+207,ArrowUnisexredt-shirtregular #PRPO427,t-shirt,Arrow,red,850,21,18,8
+208,Ralph LaurenUnisexwhitet-shirtregular #QWIO497,t-shirt,Ralph Lauren,white,1400,37,7,12
+209,American GiantFemalebluet-shirtslim #PSPO333,t-shirt,American Giant,blue,1200,29,17,10
+210,PumaFemalebluet-shirtoff #EROP206,t-shirt,Puma,blue,400,17,4,8
+211,BillsFemalewhitelowersoff #AVIN228,lowers,Bills,white,700,39,5,2
+212,BrooksFemaleyellowshirtoff #ORAV122,shirt,Brooks,yellow,750,73,18,9
+213,Ralph LaurenMaleyellowt-shirtslim #ORAV308,t-shirt,Ralph Lauren,yellow,300,61,4,13
+214,Ebbets Field FlannelsFemaleredpantsslim #AVIN277,pants,Ebbets Field Flannels,red,850,43,14,5
+215,UnderArmourMalebluet-shirtslim #QWIO324,t-shirt,UnderArmour,blue,1400,17,17,0
+216,NikeFemalewhitejeansoff #PSPO148,jeans,Nike,white,350,14,5,0
+217,UnderArmourUnisexredshirtregular #QWIO209,shirt,UnderArmour,red,650,51,16,15
+218,DelkaMalegreenlowersregular #EROP124,lowers,Delka,green,1100,91,9,8
+219,Emily'sUnisexblackt-shirtregular #ORAV466,t-shirt,Emily's,black,250,75,18,7
+220,BrooksMalebluepantsslim #AVIN365,pants,Brooks,blue,1300,73,3,15
+221,BaldwinsFemaleyellowlowersoff #EROP381,lowers,Baldwins,yellow,200,23,15,3
+222,NikeFemalegreenjeansoff #ORAV132,jeans,Nike,green,1100,41,2,13
+223,BrooksFemaleyellowlowersoff #PSPO270,lowers,Brooks,yellow,250,80,4,3
+224,American GiantUnisexwhitelowersslim #PSPO350,lowers,American Giant,white,700,4,1,4
+225,PumaFemalewhitelowersoff #EROP315,lowers,Puma,white,900,47,4,11
+226,ArmaniUnisexredshirtoff #QWIO479,shirt,Armani,red,200,13,6,1
+227,PumaFemaleredt-shirtregular #ORAV183,t-shirt,Puma,red,350,17,3,11
+228,BillsMalewhitejeansslim #PRPO262,jeans,Bills,white,250,13,15,14
+229,BrooksMalewhitet-shirtregular #PRPO434,t-shirt,Brooks,white,1400,39,14,2
+230,NikeFemalebluelowersoff #PSPO415,lowers,Nike,blue,800,66,5,5
+231,LevisMaleyellowjeansslim #ORAV494,jeans,Levis,yellow,400,97,14,2
+232,ArrowUnisexgreenjeansslim #EROP481,jeans,Arrow,green,700,11,18,14
+233,0ne8Unisexblackpantsregular #AVIN183,pants,0ne8,black,600,15,19,4
+234,Ebbets Field FlannelsUnisexwhitelowersregular #QWIO368,lowers,Ebbets Field Flannels,white,650,29,20,11
+235,American GiantFemaleyellowpantsoff #AVIN201,pants,American Giant,yellow,400,67,4,2
+236,BrooksFemalewhitejeansoff #QWIO422,jeans,Brooks,white,300,2,10,11
+237,Ralph LaurenUnisexredjeansslim #QWIO499,jeans,Ralph Lauren,red,1300,98,3,15
+238,LevisUnisexblackt-shirtslim #PSPO321,t-shirt,Levis,black,200,9,3,9
+239,American GiantMaleredt-shirtoff #EROP148,t-shirt,American Giant,red,1400,9,13,7
+240,NikeFemaleblacklowersregular #AVIN197,lowers,Nike,black,300,95,7,2
+241,BillsMaleblackpantsoff #QWIO359,pants,Bills,black,300,46,4,15
+242,Ebbets Field FlannelsUnisexgreent-shirtoff #PRPO325,t-shirt,Ebbets Field Flannels,green,1100,43,11,2
+243,PumaMaleredjeansregular #PRPO178,jeans,Puma,red,1500,92,7,10
+244,AdidasUnisexblackpantsregular #QWIO343,pants,Adidas,black,450,87,14,11
+245,Ebbets Field FlannelsFemaleredlowersregular #PRPO472,lowers,Ebbets Field Flannels,red,200,77,19,8
+246,BillsUnisexgreenpantsregular #QWIO358,pants,Bills,green,300,17,13,2
+247,NikeFemalegreenshirtoff #AVIN202,shirt,Nike,green,200,47,4,1
+248,PumaFemaleyellowlowersoff #PSPO169,lowers,Puma,yellow,600,7,14,0
+249,BaldwinsFemaleredt-shirtregular #ORAV213,t-shirt,Baldwins,red,200,82,3,13
+250,PumaFemaleredshirtslim #ORAV288,shirt,Puma,red,700,56,7,11
+251,ArmaniMaleblackjeansregular #PSPO114,jeans,Armani,black,850,75,0,6
+252,VersaceUnisexbluejeansoff #PRPO279,jeans,Versace,blue,1500,31,19,6
+253,BillsMalewhitejeansoff #PSPO265,jeans,Bills,white,400,23,13,12
+254,BillsUnisexblacklowersslim #ORAV447,lowers,Bills,black,250,42,12,5
+255,ArmaniMaleredlowersregular #QWIO222,lowers,Armani,red,900,77,19,8
+256,BaldwinsUnisexgreenlowersslim #AVIN102,lowers,Baldwins,green,900,31,5,12
+257,American GiantMalebluejeansregular #ORAV342,jeans,American Giant,blue,1100,86,13,14
+258,BaldwinsMalewhitepantsoff #PRPO249,pants,Baldwins,white,200,6,1,0
+259,LevisUnisexgreenshirtregular #PSPO496,shirt,Levis,green,900,65,1,0
+260,ArmaniUnisexyellowshirtoff #ORAV359,shirt,Armani,yellow,1400,53,12,12
+261,Ebbets Field FlannelsUnisexwhiteshirtslim #QWIO270,shirt,Ebbets Field Flannels,white,900,95,1,10
+262,AdidasUnisexgreenpantsregular #AVIN448,pants,Adidas,green,800,98,16,9
+263,ArmaniMalegreenlowersoff #AVIN232,lowers,Armani,green,1200,1,11,6
+264,ArmaniMalewhitet-shirtslim #QWIO382,t-shirt,Armani,white,1500,52,2,12
+265,ArmaniUnisexwhitelowersoff #AVIN430,lowers,Armani,white,300,32,0,4
+266,American GiantMaleredlowersslim #EROP334,lowers,American Giant,red,700,36,12,14
+267,PumaFemalebluet-shirtoff #PRPO123,t-shirt,Puma,blue,1200,71,2,10
+268,VersaceFemaleyellowjeansregular #AVIN348,jeans,Versace,yellow,400,94,0,4
+269,Ralph LaurenUnisexwhitejeansregular #QWIO173,jeans,Ralph Lauren,white,200,26,5,8
+270,UnderArmourMalegreenshirtregular #EROP325,shirt,UnderArmour,green,200,13,14,15
+271,BillsUnisexredt-shirtoff #QWIO283,t-shirt,Bills,red,750,97,6,8
+272,ArmaniUnisexblackjeansoff #EROP156,jeans,Armani,black,1500,81,13,5
+273,LevisMalebluejeansregular #EROP273,jeans,Levis,blue,350,30,11,0
+274,AdidasFemaleredlowersslim #QWIO424,lowers,Adidas,red,700,68,6,7
+275,LevisMaleblueshirtoff #AVIN125,shirt,Levis,blue,750,65,8,15
+276,ArmaniMaleyellowt-shirtslim #ORAV358,t-shirt,Armani,yellow,200,62,17,7
+277,ArmaniMalewhitejeansoff #AVIN499,jeans,Armani,white,800,88,18,2
+278,BaldwinsFemaleblackt-shirtoff #PSPO170,t-shirt,Baldwins,black,1100,56,13,6
+279,Emily'sFemalegreenshirtslim #EROP425,shirt,Emily's,green,1300,58,4,3
+280,BillsFemalewhiteshirtoff #PSPO422,shirt,Bills,white,250,0,2,14
+281,PumaUnisexredt-shirtslim #EROP266,t-shirt,Puma,red,650,24,19,13
+282,BaldwinsUnisexyellowlowersregular #PRPO431,lowers,Baldwins,yellow,300,55,18,12
+283,BaldwinsUnisexblackshirtregular #PRPO445,shirt,Baldwins,black,800,50,3,11
+284,PumaUnisexblackshirtregular #PRPO281,shirt,Puma,black,800,97,14,9
+285,UnderArmourMaleredpantsoff #PRPO281,pants,UnderArmour,red,700,42,9,9
+286,DelkaUnisexyellowshirtoff #QWIO284,shirt,Delka,yellow,1100,55,14,5
+287,VersaceUnisexredshirtregular #QWIO246,shirt,Versace,red,1400,32,20,0
+288,VersaceUnisexbluet-shirtslim #PSPO129,t-shirt,Versace,blue,1100,44,1,6
+289,Ebbets Field FlannelsFemalebluelowersslim #PSPO280,lowers,Ebbets Field Flannels,blue,850,63,7,11
+290,VersaceUnisexyellowlowersregular #PRPO467,lowers,Versace,yellow,1500,2,14,13
+291,NikeFemalebluepantsregular #ORAV309,pants,Nike,blue,350,45,14,6
+292,UnderArmourMalegreenshirtoff #PRPO411,shirt,UnderArmour,green,750,16,14,10
+293,BrooksUnisexyellowjeansslim #AVIN457,jeans,Brooks,yellow,1400,0,15,10
+294,Emily'sUnisexgreenlowersregular #EROP279,lowers,Emily's,green,650,86,19,2
+295,ArmaniFemaleblackjeansoff #PSPO470,jeans,Armani,black,400,58,1,6
+296,VersaceMalegreenshirtoff #EROP327,shirt,Versace,green,1200,62,10,15
+297,ArmaniMalegreenpantsregular #ORAV112,pants,Armani,green,900,39,11,9
+298,LevisMaleyellowt-shirtoff #QWIO425,t-shirt,Levis,yellow,650,0,18,15
+299,LevisMaleblackjeansoff #QWIO208,jeans,Levis,black,850,78,12,9
+300,BrooksMaleredshirtregular #PRPO100,shirt,Brooks,red,1300,11,20,3
+301,ArmaniFemaleblacklowersregular #ORAV319,lowers,Armani,black,1300,59,10,12
+302,BrooksMaleredt-shirtregular #PRPO330,t-shirt,Brooks,red,650,28,16,15
+303,ArmaniFemalebluet-shirtslim #EROP144,t-shirt,Armani,blue,350,55,18,14
+304,LevisUnisexwhitejeansslim #QWIO476,jeans,Levis,white,300,79,14,0
+305,ArrowMalegreent-shirtslim #QWIO236,t-shirt,Arrow,green,450,92,5,12
+306,PumaMalegreenlowersoff #EROP315,lowers,Puma,green,450,12,18,11
+307,Ebbets Field FlannelsUnisexgreenpantsregular #QWIO360,pants,Ebbets Field Flannels,green,300,99,15,7
+308,Ebbets Field FlannelsUnisexgreenlowersregular #AVIN113,lowers,Ebbets Field Flannels,green,650,25,20,8
+309,LevisMaleyellowlowersoff #EROP444,lowers,Levis,yellow,650,98,0,11
+310,BaldwinsMaleblueshirtoff #PSPO303,shirt,Baldwins,blue,850,10,4,10
+311,ArmaniUnisexgreenpantsregular #PRPO452,pants,Armani,green,300,55,19,6
+312,ArrowMalewhitejeansoff #AVIN110,jeans,Arrow,white,250,26,4,3
+313,BaldwinsMalegreenshirtslim #EROP376,shirt,Baldwins,green,250,60,5,12
+314,Emily'sFemalebluet-shirtslim #PSPO156,t-shirt,Emily's,blue,600,40,17,3
+315,NikeUnisexredshirtregular #AVIN177,shirt,Nike,red,650,53,19,6
+316,VersaceUnisexblackshirtslim #PSPO117,shirt,Versace,black,600,54,4,13
+317,PumaMalewhitelowersslim #ORAV153,lowers,Puma,white,450,97,20,1
+318,PumaMalebluelowersslim #ORAV343,lowers,Puma,blue,250,17,11,1
+319,AdidasFemaleblackjeansoff #PRPO317,jeans,Adidas,black,800,34,14,5
+320,ArrowMalebluepantsslim #QWIO281,pants,Arrow,blue,300,79,1,10
+321,DelkaMalewhitepantsregular #EROP348,pants,Delka,white,800,59,6,14
+322,AdidasFemaleyellowjeansslim #QWIO406,jeans,Adidas,yellow,800,8,4,5
+323,LevisUnisexblackshirtslim #AVIN233,shirt,Levis,black,450,44,0,12
+324,Ralph LaurenUnisexgreenjeansoff #ORAV281,jeans,Ralph Lauren,green,1500,68,5,4
+325,ArmaniUnisexbluepantsoff #AVIN417,pants,Armani,blue,800,37,7,5
+326,VersaceFemaleredt-shirtslim #EROP284,t-shirt,Versace,red,1500,93,12,9
+327,VersaceFemaleblackjeansoff #PRPO396,jeans,Versace,black,800,65,20,6
+328,0ne8Femalegreent-shirtslim #QWIO200,t-shirt,0ne8,green,600,17,2,10
+329,ArmaniUnisexyellowlowersregular #PRPO185,lowers,Armani,yellow,850,61,7,14
+330,Emily'sMaleblackshirtslim #AVIN245,shirt,Emily's,black,300,86,8,9
+331,LevisUnisexwhitet-shirtslim #ORAV268,t-shirt,Levis,white,650,37,7,12
+332,0ne8Malewhitejeansoff #PSPO356,jeans,0ne8,white,1400,9,17,4
+333,VersaceUnisexredshirtoff #QWIO157,shirt,Versace,red,400,59,17,1
+334,ArmaniUnisexgreenpantsregular #QWIO231,pants,Armani,green,600,95,10,11
+335,VersaceFemaleblueshirtoff #ORAV234,shirt,Versace,blue,1100,6,18,5
+336,Ebbets Field FlannelsUnisexgreenpantsslim #AVIN359,pants,Ebbets Field Flannels,green,600,11,6,3
+337,BrooksUnisexblackjeansoff #QWIO400,jeans,Brooks,black,300,50,18,1
+338,ArmaniFemaleredshirtslim #PRPO278,shirt,Armani,red,250,23,7,9
+339,0ne8Femalegreenpantsregular #ORAV192,pants,0ne8,green,850,0,19,6
+340,LevisUnisexwhitelowersslim #PRPO135,lowers,Levis,white,450,34,9,8
+341,ArrowUnisexblackjeansslim #PSPO113,jeans,Arrow,black,1300,31,8,7
+342,BillsMalegreent-shirtslim #PRPO117,t-shirt,Bills,green,1300,55,15,12
+343,VersaceUnisexyellowjeansslim #PRPO436,jeans,Versace,yellow,1200,55,9,0
+344,LevisFemalegreenlowersoff #EROP225,lowers,Levis,green,450,57,11,10
+345,Emily'sUnisexbluelowersregular #ORAV375,lowers,Emily's,blue,850,90,5,13
+346,American GiantUnisexbluelowersoff #PRPO387,lowers,American Giant,blue,250,66,20,10
+347,BillsFemaleblueshirtoff #PRPO303,shirt,Bills,blue,750,50,13,4
+348,BaldwinsMaleyellowshirtoff #ORAV444,shirt,Baldwins,yellow,350,70,5,7
+349,BrooksFemaleyellowpantsslim #EROP363,pants,Brooks,yellow,700,84,11,14
+350,BillsMaleredt-shirtslim #PSPO480,t-shirt,Bills,red,600,31,18,8
+351,LevisMaleredjeansregular #AVIN109,jeans,Levis,red,650,99,1,2
+352,NikeFemaleyellowt-shirtoff #AVIN373,t-shirt,Nike,yellow,1200,34,6,5
+353,0ne8Femalebluelowersregular #PSPO307,lowers,0ne8,blue,600,6,19,2
+354,Ebbets Field FlannelsFemalegreenpantsregular #AVIN425,pants,Ebbets Field Flannels,green,1400,56,0,9
+355,LevisMaleyellowt-shirtoff #AVIN482,t-shirt,Levis,yellow,1300,74,3,7
+356,VersaceMaleblackjeansregular #AVIN199,jeans,Versace,black,800,8,3,10
+357,LevisFemalegreenpantsregular #ORAV284,pants,Levis,green,200,37,20,7
+358,LevisMaleblackjeansregular #ORAV329,jeans,Levis,black,300,24,14,1
+359,AdidasUnisexblackpantsslim #PRPO248,pants,Adidas,black,250,85,18,8
+360,ArmaniFemaleblackpantsslim #EROP204,pants,Armani,black,700,65,2,14
+361,VersaceUnisexyellowjeansregular #PRPO406,jeans,Versace,yellow,700,70,19,15
+362,American GiantFemaleblackshirtoff #EROP184,shirt,American Giant,black,200,83,16,3
+363,LevisUnisexredshirtregular #PSPO226,shirt,Levis,red,800,78,8,12
+364,Ebbets Field FlannelsUnisexwhitejeansoff #ORAV163,jeans,Ebbets Field Flannels,white,600,52,8,9
+365,ArmaniMaleyellowpantsoff #ORAV381,pants,Armani,yellow,700,38,9,6
+366,Emily'sMalegreent-shirtoff #EROP212,t-shirt,Emily's,green,600,37,17,15
+367,0ne8Maleyellowshirtoff #ORAV353,shirt,0ne8,yellow,1300,42,2,7
+368,UnderArmourFemaleblackshirtregular #PSPO468,shirt,UnderArmour,black,200,88,2,5
+369,LevisMaleyellowlowersregular #AVIN433,lowers,Levis,yellow,250,41,16,14
+370,ArmaniMalebluejeansoff #QWIO249,jeans,Armani,blue,250,27,2,4
+371,ArrowUnisexbluelowersslim #QWIO287,lowers,Arrow,blue,800,30,18,2
+372,LevisUnisexbluet-shirtoff #QWIO109,t-shirt,Levis,blue,1400,78,12,0
+373,Emily'sUnisexbluet-shirtregular #PRPO496,t-shirt,Emily's,blue,800,63,15,3
+374,PumaMalewhiteshirtoff #AVIN117,shirt,Puma,white,1300,60,10,8
+375,Ralph LaurenUnisexgreent-shirtslim #AVIN291,t-shirt,Ralph Lauren,green,700,50,1,15
+376,BillsMaleyellowshirtslim #PSPO316,shirt,Bills,yellow,1300,4,18,13
+377,LevisMaleblackpantsregular #EROP102,pants,Levis,black,400,2,4,4
+378,BillsMaleblacklowersslim #PRPO319,lowers,Bills,black,1300,69,9,2
+379,AdidasMaleredshirtslim #PRPO170,shirt,Adidas,red,1300,18,19,0
+380,ArmaniUnisexyellowt-shirtslim #EROP382,t-shirt,Armani,yellow,1100,69,11,13
+381,VersaceMalewhiteshirtregular #ORAV472,shirt,Versace,white,600,34,16,6
+382,ArrowFemaleyellowlowersslim #AVIN489,lowers,Arrow,yellow,600,0,13,13
+383,BaldwinsUnisexwhiteshirtoff #EROP389,shirt,Baldwins,white,700,92,13,13
+384,American GiantUnisexwhitejeansregular #EROP129,jeans,American Giant,white,450,38,20,6
+385,PumaMaleredpantsregular #EROP368,pants,Puma,red,300,7,5,7
+386,NikeMaleredjeansoff #PRPO327,jeans,Nike,red,900,21,6,10
+387,American GiantMalewhitet-shirtoff #QWIO146,t-shirt,American Giant,white,700,28,16,9
+388,ArmaniFemalewhitejeansregular #QWIO136,jeans,Armani,white,450,66,4,0
+389,Ralph LaurenMalewhitelowersregular #QWIO409,lowers,Ralph Lauren,white,700,31,3,6
+390,UnderArmourMaleyellowlowersoff #AVIN101,lowers,UnderArmour,yellow,750,22,16,0
+391,BillsMaleredlowersregular #PSPO421,lowers,Bills,red,1300,29,17,11
+392,BillsFemalebluejeansregular #QWIO135,jeans,Bills,blue,700,79,7,0
+393,BrooksFemaleblackjeansslim #AVIN133,jeans,Brooks,black,800,36,9,9
+394,Ebbets Field FlannelsFemaleredpantsregular #QWIO362,pants,Ebbets Field Flannels,red,1500,15,9,9
+395,BaldwinsMaleredjeansregular #QWIO177,jeans,Baldwins,red,1500,63,12,0
+396,ArrowFemaleyellowlowersregular #PRPO269,lowers,Arrow,yellow,400,92,19,2
+397,DelkaFemaleblacklowersslim #PSPO212,lowers,Delka,black,1500,64,12,11
+398,ArmaniMalebluejeansregular #PSPO496,jeans,Armani,blue,900,75,2,10
+399,Emily'sMaleredjeansoff #QWIO297,jeans,Emily's,red,650,52,17,12
+400,LevisFemaleredjeansslim #EROP239,jeans,Levis,red,450,87,8,15
+401,VersaceUnisexwhitejeansregular #QWIO480,jeans,Versace,white,300,49,15,15
+402,LevisMaleredpantsregular #PSPO109,pants,Levis,red,250,18,11,0
+403,UnderArmourMalegreenjeansregular #AVIN374,jeans,UnderArmour,green,1100,62,11,15
+404,LevisMaleblackt-shirtslim #AVIN172,t-shirt,Levis,black,600,12,0,14
+405,Ralph LaurenMaleblackt-shirtregular #PRPO255,t-shirt,Ralph Lauren,black,650,21,15,6
+406,BillsFemaleblackt-shirtoff #PSPO230,t-shirt,Bills,black,1200,59,14,13
+407,BaldwinsMaleyellowshirtslim #AVIN237,shirt,Baldwins,yellow,900,20,3,14
+408,DelkaUnisexblackt-shirtslim #PSPO466,t-shirt,Delka,black,250,95,17,15
+409,American GiantMalebluejeansoff #PSPO212,jeans,American Giant,blue,350,12,15,6
+410,ArmaniFemalegreent-shirtregular #AVIN150,t-shirt,Armani,green,600,84,9,2
+411,Emily'sUnisexyellowt-shirtslim #EROP276,t-shirt,Emily's,yellow,1400,45,17,2
+412,Ralph LaurenUnisexredjeansoff #EROP262,jeans,Ralph Lauren,red,350,45,10,14
+413,Emily'sMaleblackpantsregular #PSPO245,pants,Emily's,black,1400,90,7,13
+414,DelkaFemalewhitejeansregular #EROP205,jeans,Delka,white,200,73,16,13
+415,Ebbets Field FlannelsFemaleyellowlowersoff #PSPO141,lowers,Ebbets Field Flannels,yellow,1300,42,1,1
+416,LevisMaleredt-shirtslim #ORAV172,t-shirt,Levis,red,750,91,19,15
+417,Emily'sMaleredpantsslim #AVIN467,pants,Emily's,red,800,66,18,12
+418,ArmaniMaleyellowpantsregular #QWIO103,pants,Armani,yellow,850,73,8,3
+419,Ralph LaurenFemalewhitepantsregular #ORAV316,pants,Ralph Lauren,white,1200,51,9,0
+420,VersaceMaleyellowt-shirtslim #ORAV264,t-shirt,Versace,yellow,1100,10,17,0
+421,Ralph LaurenUnisexwhitejeansoff #QWIO300,jeans,Ralph Lauren,white,1100,86,12,15
+422,LevisFemalewhitejeansslim #AVIN212,jeans,Levis,white,600,74,5,2
+423,ArmaniMaleredshirtslim #AVIN328,shirt,Armani,red,1100,0,0,0
+424,BillsMalegreenlowersslim #PSPO385,lowers,Bills,green,200,78,7,11
+425,BaldwinsMalebluelowersoff #PRPO168,lowers,Baldwins,blue,300,85,13,8
+426,NikeMaleblackpantsslim #EROP454,pants,Nike,black,1400,6,14,3
+427,LevisUnisexbluepantsregular #PSPO441,pants,Levis,blue,650,25,12,0
+428,Ebbets Field FlannelsUnisexblueshirtregular #PSPO496,shirt,Ebbets Field Flannels,blue,750,30,2,15
+429,BaldwinsFemalewhiteshirtoff #PSPO415,shirt,Baldwins,white,600,56,15,12
+430,American GiantUnisexredt-shirtoff #AVIN310,t-shirt,American Giant,red,300,28,7,2
+431,VersaceMaleyellowlowersslim #QWIO458,lowers,Versace,yellow,1100,50,7,3
+432,BrooksFemaleblackt-shirtoff #ORAV450,t-shirt,Brooks,black,1500,79,8,3
+433,BaldwinsFemaleblackt-shirtregular #AVIN275,t-shirt,Baldwins,black,450,26,19,1
+434,American GiantMalebluet-shirtslim #PSPO314,t-shirt,American Giant,blue,1100,83,10,15
+435,BillsFemaleredjeansregular #AVIN221,jeans,Bills,red,700,85,7,7
+436,BaldwinsFemalewhitet-shirtslim #EROP180,t-shirt,Baldwins,white,1500,39,4,11
+437,BrooksUnisexblacklowersoff #QWIO421,lowers,Brooks,black,300,48,6,11
+438,0ne8Femaleredt-shirtoff #PSPO278,t-shirt,0ne8,red,300,28,9,3
+439,DelkaMaleyellowjeansoff #PSPO224,jeans,Delka,yellow,350,88,16,13
+440,BrooksUnisexblackshirtslim #PSPO151,shirt,Brooks,black,750,63,10,2
+441,Ebbets Field FlannelsFemaleredshirtoff #QWIO494,shirt,Ebbets Field Flannels,red,300,63,4,7
+442,VersaceFemaleredshirtoff #ORAV365,shirt,Versace,red,800,97,11,0
+443,LevisFemalewhitejeansslim #PSPO344,jeans,Levis,white,1100,78,10,7
+444,BillsFemalewhitepantsoff #EROP132,pants,Bills,white,900,33,17,7
+445,BrooksUnisexwhitepantsoff #AVIN390,pants,Brooks,white,1500,73,14,7
+446,VersaceUnisexgreenshirtoff #ORAV212,shirt,Versace,green,900,29,19,4
+447,UnderArmourUnisexredlowersoff #ORAV270,lowers,UnderArmour,red,800,1,8,14
+448,0ne8Femaleredpantsoff #EROP370,pants,0ne8,red,850,10,8,6
+449,UnderArmourUnisexwhitepantsoff #QWIO274,pants,UnderArmour,white,900,36,3,0
+450,ArrowUnisexwhitejeansregular #ORAV167,jeans,Arrow,white,1400,37,0,13
+451,BrooksMaleblackjeansoff #QWIO160,jeans,Brooks,black,300,97,19,14
+452,BrooksFemaleblackpantsslim #QWIO408,pants,Brooks,black,850,45,14,9
+453,DelkaMaleyellowt-shirtslim #QWIO421,t-shirt,Delka,yellow,350,56,19,4
+454,Emily'sFemaleredlowersregular #PSPO115,lowers,Emily's,red,750,79,15,14
+455,ArrowMalegreenshirtregular #PSPO199,shirt,Arrow,green,900,27,7,0
+456,AdidasFemalebluejeansregular #EROP270,jeans,Adidas,blue,300,88,18,7
+457,NikeUnisexwhitepantsoff #PRPO462,pants,Nike,white,200,67,2,2
+458,BillsUnisexredt-shirtoff #PSPO260,t-shirt,Bills,red,250,93,12,5
+459,AdidasMaleredlowersregular #EROP148,lowers,Adidas,red,1400,84,4,10
+460,0ne8Maleblackjeansslim #EROP241,jeans,0ne8,black,600,33,15,0
+461,American GiantUnisexgreent-shirtslim #QWIO155,t-shirt,American Giant,green,1100,87,9,11
+462,Ebbets Field FlannelsMaleyellowt-shirtslim #PRPO414,t-shirt,Ebbets Field Flannels,yellow,1500,79,1,11
+463,PumaUnisexyellowjeansoff #EROP139,jeans,Puma,yellow,250,89,5,5
+464,LevisMalewhitelowersregular #EROP266,lowers,Levis,white,1100,41,4,6
+465,BrooksFemalegreenshirtslim #ORAV334,shirt,Brooks,green,750,36,8,2
+466,BrooksMalebluejeansregular #PSPO403,jeans,Brooks,blue,700,62,5,4
+467,VersaceUnisexwhitelowersoff #ORAV419,lowers,Versace,white,600,58,7,7
+468,DelkaMaleblacklowersslim #PRPO318,lowers,Delka,black,600,1,4,15
+469,LevisUnisexgreenlowersoff #QWIO251,lowers,Levis,green,700,16,14,14
+470,AdidasFemalewhitepantsoff #PSPO442,pants,Adidas,white,600,19,0,11
+471,ArrowFemalewhitet-shirtregular #PRPO368,t-shirt,Arrow,white,900,5,19,9
+472,ArrowFemaleyellowt-shirtslim #QWIO322,t-shirt,Arrow,yellow,600,39,3,9
+473,AdidasFemaleblackjeansslim #PSPO463,jeans,Adidas,black,350,85,11,13
+474,Ebbets Field FlannelsFemaleredlowersslim #EROP336,lowers,Ebbets Field Flannels,red,600,60,4,11
+475,PumaFemalebluet-shirtoff #EROP334,t-shirt,Puma,blue,250,81,1,6
+476,Ebbets Field FlannelsUnisexredshirtslim #PRPO188,shirt,Ebbets Field Flannels,red,700,30,20,2
+477,LevisMaleyellowpantsslim #PRPO421,pants,Levis,yellow,1400,52,7,6
+478,ArrowFemalegreenlowersregular #QWIO139,lowers,Arrow,green,1100,54,16,3
+479,UnderArmourFemaleredshirtslim #PSPO383,shirt,UnderArmour,red,1100,16,6,0
+480,AdidasMaleredjeansoff #PRPO475,jeans,Adidas,red,600,51,0,0
+481,AdidasFemalegreenjeansregular #QWIO204,jeans,Adidas,green,600,95,16,15
+482,NikeFemaleblueshirtregular #AVIN357,shirt,Nike,blue,850,52,1,4
+483,PumaMalewhitepantsslim #PRPO134,pants,Puma,white,1300,36,2,2
+484,VersaceMalewhitelowersslim #QWIO450,lowers,Versace,white,750,14,16,11
+485,VersaceMaleyellowlowersregular #PSPO390,lowers,Versace,yellow,750,61,18,3
+486,NikeFemaleblackt-shirtregular #QWIO273,t-shirt,Nike,black,450,39,3,13
+487,ArrowUnisexbluet-shirtoff #AVIN276,t-shirt,Arrow,blue,600,89,1,2
+488,American GiantUnisexblackjeansslim #PRPO409,jeans,American Giant,black,400,76,2,2
+489,AdidasMalewhitet-shirtregular #AVIN489,t-shirt,Adidas,white,850,67,6,13
+490,ArmaniFemaleblackshirtoff #AVIN240,shirt,Armani,black,900,22,6,11
+491,NikeMaleblackshirtregular #PSPO185,shirt,Nike,black,1200,33,19,2
+492,PumaMalegreenjeansslim #AVIN227,jeans,Puma,green,1300,3,18,6
+493,VersaceUnisexgreenlowersoff #ORAV449,lowers,Versace,green,1300,59,4,6
+494,UnderArmourMalebluepantsslim #PSPO362,pants,UnderArmour,blue,200,5,19,1
+495,VersaceMaleredlowersregular #PSPO449,lowers,Versace,red,1500,98,2,12
+496,ArrowFemaleblacklowersslim #ORAV427,lowers,Arrow,black,750,36,16,6
+497,LevisMaleyellowpantsregular #PRPO499,pants,Levis,yellow,300,63,15,6
+498,AdidasMaleredpantsregular #QWIO145,pants,Adidas,red,250,26,16,7
+499,UnderArmourFemaleblacklowersoff #EROP114,lowers,UnderArmour,black,300,36,15,0
